@@ -1,2 +1,3 @@
 # masterarbeit
-Code zur generierung der Abbildungen
+Code zum Testen des Linformers, wie er im Paper beschrieben wurde,
+mitsamt dem Code der in der Masterarbeit verwendeten Abbildung.
